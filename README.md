@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Computer Science Engineering Student | Cybersecurity & AI Enthusiast
+  Computer Science Engineering Student | Technology & AI Enthusiast
 </h3>
 
 <p align="center">
@@ -33,23 +33,22 @@ I'm a **B.E. Computer Science and Engineering student** interested in building p
 
 Currently, I am exploring:
 
-- 🔐 Cybersecurity and SOC Analyst fundamentals
-- 🗄️ SQL, MySQL and Database Management
-- 🤖 Artificial Intelligence and Machine Learning
-- 🧠 LLMs and AI-based applications
-- 💻 Programming and software development
-- 🚀 Building practical college and personal projects
-- 🌐 Learning how different technologies work together
+-  SQL, MySQL and Database Management
+-  Artificial Intelligence and Machine Learning
+-  LLMs and AI-based applications
+-  Vibe Coding and software development
+-  Building practical college and personal projects
+-  Learning how different technologies work together
 
 I enjoy learning by **building, testing, breaking, fixing and improving projects**.
 
-> 💡 My goal is to become a strong technology professional with practical knowledge rather than only theoretical knowledge.
+>  My goal is to become a strong technology professional with practical knowledge rather than only theoretical knowledge.
 
 ---
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 ```text
 Cybersecurity
